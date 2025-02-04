@@ -2,10 +2,12 @@
 
 
 Skills:
-1. Programming langyages and their libraries: Python, C++, STL
-2. MACHNE LEARNING: Linear regression, Logistic regression, Support vector machines, Decision Tree, Ensemble learning, kNN, Naive Bayes, PCA, Clustering methods.
+1. Programming langyages and their libraries:
+  i. PYTHON: Numpy, pandas, matplotlib, Scikit Learn, PyTorch.
+  ii. C++: STL
+2. NATURAL LANGUAGE PROCESSING: LLM, transformer architecture, attention mechanism,
 3. DEEP LEARNING: RNN, LSTM, Backpropagation.
-4. NATURAL LANGUAGE PROCESSING: LLM, transformer architecture, attention mechanism, 
+4. MACHNE LEARNING: Linear regression, Logistic regression, Support vector machines, Decision Tree, Ensemble learning, kNN, Naive Bayes, PCA, Clustering methods.
 5. Data structures and algorithms
 6. Backend: Rest API, FastAPI, Django, Docker, KUbernetes, SQL.
 7. VERSION CONTROL: GIT
