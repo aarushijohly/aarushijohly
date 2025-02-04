@@ -9,7 +9,7 @@ Skills:
 3. DEEP LEARNING: RNN, LSTM, Backpropagation.
 4. MACHNE LEARNING: Linear regression, Logistic regression, Support vector machines, Decision Tree, Ensemble learning, kNN, Naive Bayes, PCA, Clustering methods.
 5. Data structures and algorithms
-6. Backend: Rest API, FastAPI, Django, Docker, KUbernetes, SQL.
+6. Backend: Rest API, FastAPI, Django, Docker, Kubernetes, SQL.
 7. VERSION CONTROL: GIT
 <!--
 **aarushijohly/aarushijohly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
