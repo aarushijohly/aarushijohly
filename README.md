@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+NLP or Language AI: Subfield of AI that fouses on developing technologies capable of understanding, processing and generating human language. Example: ChatGPT
 <!--
 **aarushijohly/aarushijohly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
