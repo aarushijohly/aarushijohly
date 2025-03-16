@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Aarushi and NLP interests me, thus pursuing it proffesionally.
+Here, I have showcased my work in Natural Language Processing.
 
 ML frameworks: Langchain, PyTorch, Scikit-Learn
 <!--
