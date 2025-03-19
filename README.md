@@ -1,6 +1,5 @@
 ### Hi there 👋
-My name is Aarushi and NLP interests me, thus pursuing it proffesionally.
-Here, I have showcased my work in Natural Language Processing.
+My name is Aarushi, currently working as a machine learning engineer and workng on projects to explore the field of natural language processing furthur.
 
 <!--
 **aarushijohly/aarushijohly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
