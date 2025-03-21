@@ -1,4 +1,3 @@
-### Hi there 👋
 Building projects in the field of natural language processing.
 
 <!--
