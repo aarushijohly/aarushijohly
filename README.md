@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Aarushi, currently working as a machine learning engineer and workng on projects to explore the field of natural language processing furthur.
+Building projects in the field of natural language processing.
 
 <!--
 **aarushijohly/aarushijohly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
