@@ -1,5 +1,4 @@
-Machine learning engineer building projects in natural language processing.
-
+Machine learning engineer building projects in natural language processing using python and c++.
 <!--
 **aarushijohly/aarushijohly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
